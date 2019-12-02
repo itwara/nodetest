@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "nodeTest": "bin/echoName.js",
+    "echoName": "bin/echoName.js",
+    "echoAge": "bin/echoAge.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
