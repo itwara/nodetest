@@ -26,6 +26,7 @@
     "textract": "^2.5.0"
   },
   "dependencies": {
+    "node-xlsx": "^0.21.0",
     "tesseract.js": "^2.1.4"
   }
 }
